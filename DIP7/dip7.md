@@ -11,7 +11,7 @@ Tags: process, governance, dip-set, core-governance-dipset
 Type: Process
 Status: Accepted
 Date Proposed: 2023-04-06
-Date Ratified: 2023-04-10
+Date Ratified: 2023-03-10
 Dependencies: DIP0, DIP1
 Replaces: n/a
 Ratification Poll URL:
