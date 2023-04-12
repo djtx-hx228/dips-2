@@ -8,7 +8,7 @@ data:
           https://github.com/lasthyphen/dips/blob/master/meta/primer_for_authors/primer_for_authors.md
       - id: dip0
         name: $dip0
-        href: 'http://localhost:4200/dips/details/DIP0'
+        href: 'http://localhost:4200/dips/deails/DIP0'
       - id: dip51
         name: $dip51
         href: 'http://localhost:4200/dips/details/DIP51'
