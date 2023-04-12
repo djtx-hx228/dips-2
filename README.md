@@ -1,6 +1,6 @@
 # Dijets Improvement Proposals (DIPs)
 
-Dijets Improvement Proposals are the preferred mechanism for improving both Dijets Governance and the Dijets Protocol.
+Dijets Improvement Proposal are the preferred mechanism for improving both Dijets Governance and the Dijets Protocol.
 
 Through an open and documented process, community feedback will be collected to reach the broadest possible consensus on how the DijetsDAO should evolve. Furthermore, DIPs provide a mechanism for any community member to define key issues and suggest changes and additions to the system. The DIPs process is conducted with a high level of transparency, rigor, and community input in order to minimize undesirable results. 
 
